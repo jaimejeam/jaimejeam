@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello hello!! 👋
+
+# I'm Jaime Acosta, Computer System Engineer from Mexico.
+
+I'm currently working as Software Developer in Fondo de Aseguramiento Agropecuario Fortschritt. 💻
+Also I've got 4 years of experience as an IT Engineer, so I'm pretty much a tech wizard.
+
+If you think I can help you with something please don't hesitate on contact me 😃
+You can reach me on my [personal webpage](https://jaimeacosta.net/) 📫
 
 <!--
 **jaimejeam/jaimejeam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
