@@ -1,6 +1,6 @@
-## Hello hello!! 👋
+# Hello hello!! 👋
 
-# I'm Jaime Acosta, Computer System Engineer from Mexico.
+## I'm Jaime Acosta, Computer System Engineer from Mexico.
 
 I'm currently working as Software Developer in Fondo de Aseguramiento Agropecuario Fortschritt. 💻
 Also I've got 4 years of experience as an IT Engineer, so I'm pretty much a tech wizard.
