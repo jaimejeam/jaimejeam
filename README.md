@@ -6,6 +6,7 @@ I'm currently working as Software Developer in Fondo de Aseguramiento Agropecuar
 Also I've got 4 years of experience as an IT Engineer, so I'm pretty much a tech wizard.
 
 If you think I can help you with something please don't hesitate on contact me 😃
+
 You can reach me on my [personal webpage](https://jaimeacosta.net/) 📫
 
 <!--
